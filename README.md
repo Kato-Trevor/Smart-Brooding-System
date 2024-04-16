@@ -1,9 +1,15 @@
 Team members;
+
 Kato Trevor Thomas   - 2100713085
+
 Kisejjere Rashid     - 2100711543
+
 Aine Daniel Mwejune  -  2100715696
+
 Aparo Cecilia        - 2100705605
+
 Masembe Sendi Joseph - 2100717978
+
 Iraku Harry          - 2100707731
 
 ThingSpeak - https://thingspeak.com/channels/2501148
